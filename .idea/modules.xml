@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project-wxqs.iml" filepath="$PROJECT_DIR$/project-wxqs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxqs-api/wxqs-api.iml" filepath="$PROJECT_DIR$/wxqs-api/wxqs-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxqs-common/wxqs-common.iml" filepath="$PROJECT_DIR$/wxqs-common/wxqs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxqs-dao/wxqs-dao.iml" filepath="$PROJECT_DIR$/wxqs-dao/wxqs-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxqs-model/wxqs-model.iml" filepath="$PROJECT_DIR$/wxqs-model/wxqs-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxqs-service/wxqs-service.iml" filepath="$PROJECT_DIR$/wxqs-service/wxqs-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxqs-web/wxqs-web.iml" filepath="$PROJECT_DIR$/wxqs-web/wxqs-web.iml" />
+    </modules>
+  </component>
+</project>

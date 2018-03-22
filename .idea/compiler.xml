@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="projectwxqs" />
+        <module name="wxqs-api" />
+        <module name="wxqs-common" />
+        <module name="wxqs-dao" />
+        <module name="wxqs-model" />
+        <module name="wxqs-service" />
+        <module name="wxqs-util" />
+        <module name="wxqs-web" />
+        <module name="wxqsapi" />
+        <module name="wxqsmodel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="project-wxqs" target="1.7" />
+      <module name="projectwxqs" target="1.5" />
+      <module name="wxqs-api" target="1.7" />
+      <module name="wxqs-common" target="1.7" />
+      <module name="wxqs-dao" target="1.7" />
+      <module name="wxqs-model" target="1.7" />
+      <module name="wxqs-service" target="1.7" />
+      <module name="wxqs-util" target="1.7" />
+      <module name="wxqs-web" target="1.7" />
+      <module name="wxqsapi" target="1.7" />
+      <module name="wxqsmodel" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
