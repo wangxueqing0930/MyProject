@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by Administrator on 2017/9/29.
+ * Created by wxq on 2017/9/29.
  */
 @Controller
 @RequestMapping(value = "/user")
