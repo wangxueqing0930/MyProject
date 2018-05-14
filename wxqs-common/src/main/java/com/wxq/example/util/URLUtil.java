@@ -7,7 +7,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * Created by lvxiaojun on 16/8/5.
+ * Created by wangxueqing on 18/5/5.
  * URL工具类
  */
 public class URLUtil {
